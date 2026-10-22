@@ -1,0 +1,21 @@
+{
+  "baseline_sha256": "fa6d574f7de9066e874ca890554d5f45f21aa6ffab28f4534f1bb6cf02df1a33",
+  "output_sha256": "caf298793811921d9881deb07c686ddb28c7c7f1f45d1722209e867e84148d6f",
+  "changes": [
+    {
+      "guid": "{f715a920-8a95-40ee-b666-3d931eccd0bb}",
+      "before_db": -8.0,
+      "after_db": -80.0,
+      "before_hash_tag_hex": "f215f3bb",
+      "after_hash_tag_hex": "3b4cd0a6"
+    },
+    {
+      "guid": "{3404369c-3c74-4a69-b1de-6fef51b0fd6b}",
+      "before_db": -8.0,
+      "after_db": -80.0,
+      "before_hash_tag_hex": "2b513c1b",
+      "after_hash_tag_hex": "6758f11f"
+    }
+  ],
+  "qualification": "Exact measured FMOD 2.02.22 native output delta; HASH algorithm is not decoded."
+}

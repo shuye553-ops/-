@@ -1,0 +1,17 @@
+[
+  {
+    "name": "vgmstream-cli.exe",
+    "bytes": 2876928,
+    "sha256": "29df08c557ada8269c92a6abfe3886ad2f65849b0b26ba78a0819b363bbc5b85"
+  },
+  {
+    "name": "fmodstudiocl.exe",
+    "bytes": 16384,
+    "sha256": "6eaba9a38c3a46a067772a68ca050b76f4834e02e50ea96cdc4e843dde95174f"
+  },
+  {
+    "name": "fmod_common.h",
+    "bytes": 37663,
+    "sha256": "e939efc0243fed48f71a62ccb37f13f5df478f45a1e7c5ad69494df5797ba749"
+  }
+]

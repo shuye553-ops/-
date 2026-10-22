@@ -1,0 +1,49 @@
+{
+  "status": "PASS_INDEPENDENT_TEXT_SOURCE_REPRODUCTION",
+  "date": "2026-10-22T21:55:19",
+  "platform": "Windows x64",
+  "python": "3.11+",
+  "numpy": "2.5.2",
+  "studio": "2.02.22",
+  "runtime": "2.02.14",
+  "baseline_contract_checked": true,
+  "three_recordings_supplied_locally": true,
+  "reference_scripts_excluded": true,
+  "five_banks_byte_identical": true,
+  "files": [
+    {
+      "name": "masterbank.assets.bank",
+      "sha256": "94d4bd39a23ccf83108a3d66bc0e89b23e88b59b1fc31bdd7239d9f33b124ced",
+      "matches_current_local_release": true
+    },
+    {
+      "name": "masterbank.bank",
+      "sha256": "caf298793811921d9881deb07c686ddb28c7c7f1f45d1722209e867e84148d6f",
+      "matches_current_local_release": true
+    },
+    {
+      "name": "masterbank.strings.bank",
+      "sha256": "1a0409d591599196307395afa607cb55683addb4138ae35ec9cb6a3073c7f2d5",
+      "matches_current_local_release": true
+    },
+    {
+      "name": "tanks_engines.assets.bank",
+      "sha256": "cf84aa3f180887bd7664bc45639a8c52ea238355d9e403827456223074750ecb",
+      "matches_current_local_release": true
+    },
+    {
+      "name": "tanks_engines.bank",
+      "sha256": "d9ea1f9b0027f685f267b1b29d33049be2d32121219117406a178dbe13f03b27",
+      "matches_current_local_release": true
+    }
+  ],
+  "native_load": "PASS_BANK_LOAD_AND_SAMPLE_LOAD",
+  "offline_regression": "PASS_RUNTIME_LOAD_AND_OFFLINE_REGRESSION",
+  "parent_count": 72,
+  "static_and_audio": "PASS_STATIC_AND_DECODED_AUDIO",
+  "zip_crc": "PASS",
+  "zip_bank_hashes": "PASS",
+  "game_modified": false,
+  "in_game_test_of_this_build": false,
+  "note": "Initial reference initialization exposed an auto-running legacy project script. That attempt was stopped; Scripts was excluded and the complete encoding/build/runtime/packaging pipeline rerun successfully. This is historical rehearsal evidence, not a PASS for future changed inputs."
+}

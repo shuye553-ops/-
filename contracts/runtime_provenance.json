@@ -1,0 +1,35 @@
+{
+  "source_repository": "ejoy/ant",
+  "commit": "f32fbd4811e90c2433bf159aa40fb8f8aceb8b58",
+  "runtime_version": "2.02.14",
+  "files": [
+    {
+      "name": "fmod.dll",
+      "url": "https://raw.githubusercontent.com/ejoy/ant/f32fbd4811e90c2433bf159aa40fb8f8aceb8b58/3rd/fmod/windows/core/lib/x64/fmod.dll",
+      "github_blob_sha": "75120502fcfcfe3c87bc963d4f4757ee5e4e3816",
+      "sha256": "f0fb763aa0db5ff0b40930828d9078292add03386e76cec89956c58cc12b6920",
+      "bytes": 1850368
+    },
+    {
+      "name": "fmodstudio.dll",
+      "url": "https://raw.githubusercontent.com/ejoy/ant/f32fbd4811e90c2433bf159aa40fb8f8aceb8b58/3rd/fmod/windows/studio/lib/x64/fmodstudio.dll",
+      "github_blob_sha": "3b0fdebf29663de87e4e5e4da84fa677ddb6d858",
+      "sha256": "4c75d41cc93bcb6de73529c3bc09c3b7e9e0dd220dde725d6f4097aabb1b04ea",
+      "bytes": 1515520
+    },
+    {
+      "name": "fmodL.dll",
+      "url": "https://raw.githubusercontent.com/ejoy/ant/f32fbd4811e90c2433bf159aa40fb8f8aceb8b58/3rd/fmod/windows/core/lib/x64/fmodL.dll",
+      "github_blob_sha": "14a47ba3a641d31d16d1056caf612647728f084d",
+      "sha256": "c2652e9dd688fd5e7895eb5c0d31b8c7f3883be3cd5907f52a927ac6e33e64ab",
+      "bytes": 2086400
+    },
+    {
+      "name": "fmodstudioL.dll",
+      "url": "https://raw.githubusercontent.com/ejoy/ant/f32fbd4811e90c2433bf159aa40fb8f8aceb8b58/3rd/fmod/windows/studio/lib/x64/fmodstudioL.dll",
+      "github_blob_sha": "ecfd9b8944182a746d2519208ed27c6c8d05d3f6",
+      "sha256": "9b6c75309b67b47c639c5ce2dedda31ad15db2097a5d2c469effff69e987fdba",
+      "bytes": 2305024
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "audio_dir": "X:/inputs/audio",
+  "original_package_dir": "X:/inputs/original-package",
+  "reference_project_dir": "work/fmod-reference",
+  "fmod_cli": "X:/tools/FMOD Studio 2.02.22/fmodstudiocl.exe",
+  "vgmstream_exe": "X:/tools/vgmstream-cli.exe",
+  "runtime_dir": "X:/tools/runtime-2.02",
+  "output_dir": "releases",
+  "verify_installed": false
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "dist_120m.wav",
+    "frames": 23040,
+    "sha256": "e76c5f326ce68174724615cd6d188e530b32d03da0b54f397ac503e4e08c8020",
+    "sample_rate": 24000,
+    "channels": 1,
+    "bits": 16
+  },
+  {
+    "name": "dist_160m.wav",
+    "frames": 21120,
+    "sha256": "505dccda4e5b85469f5bcdb445a231688f5625e0969e23af20d3adadfa345191",
+    "sample_rate": 24000,
+    "channels": 1,
+    "bits": 16
+  },
+  {
+    "name": "dist_200m.wav",
+    "frames": 24960,
+    "sha256": "257eb26cdf84e8a14568048854708427eaa2689fb8b0f1f894b5788615ee7114",
+    "sample_rate": 24000,
+    "channels": 1,
+    "bits": 16
+  }
+]

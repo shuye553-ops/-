@@ -1,0 +1,1846 @@
+{
+  "voice_event": "{e775566d-d1c7-46f5-aab3-22ee19f0a56c}",
+  "parent_count": 72,
+  "instance_count": 2952,
+  "unique_serialized_schedules": [
+    [
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 4.43,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 8.86,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 8.86,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 13.29,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 22.15,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 26.58,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 26.58,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 31.01,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 39.87,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 44.3,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 44.3,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 48.73,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 57.59,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 62.02,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 62.02,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 66.45,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 75.31,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 79.74,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 79.74,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 84.17,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 150.0,
+            "maximum": 210.0
+          }
+        ]
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 93.03,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 97.46,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 90.0,
+            "maximum": 150.0
+          }
+        ]
+      },
+      {
+        "start_seconds": 97.46,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 0.0,
+            "maximum": 90.0
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 4.43,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 8.86,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 8.86,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 13.29,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 22.15,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 26.58,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 26.58,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 31.01,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 39.87,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 44.3,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 44.3,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 48.73,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 57.59,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 62.02,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 62.02,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 66.45,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 75.31,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 79.74,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 79.74,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 84.17,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 150.0,
+            "maximum": 210.0
+          }
+        ]
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 93.03,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 97.46,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 0.0,
+            "maximum": 90.0
+          }
+        ]
+      },
+      {
+        "start_seconds": 97.46,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 90.0,
+            "maximum": 150.0
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 4.43,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 8.86,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 8.86,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 13.29,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 22.15,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 26.58,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 26.58,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 31.01,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 39.87,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 44.3,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 44.3,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 48.73,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 57.59,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 62.02,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 62.02,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 66.45,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 75.31,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 79.74,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 79.74,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 84.17,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 150.0,
+            "maximum": 210.0
+          }
+        ]
+      },
+      {
+        "start_seconds": 93.03,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 97.46,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 0.0,
+            "maximum": 90.0
+          }
+        ]
+      },
+      {
+        "start_seconds": 97.46,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 90.0,
+            "maximum": 150.0
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 4.43,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 8.86,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 8.86,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 13.29,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 22.15,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 26.58,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 26.58,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 31.01,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 39.87,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 44.3,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 44.3,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 48.73,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 57.59,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 62.02,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 62.02,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 66.45,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 75.31,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 79.74,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 79.74,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 84.17,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 150.0,
+            "maximum": 210.0
+          }
+        ]
+      },
+      {
+        "start_seconds": 93.03,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 97.46,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 90.0,
+            "maximum": 150.0
+          }
+        ]
+      },
+      {
+        "start_seconds": 97.46,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 0.0,
+            "maximum": 90.0
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 4.43,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 8.86,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 8.86,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 13.29,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 22.15,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 26.58,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 26.58,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 31.01,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 39.87,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 44.3,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 44.3,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 48.73,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 57.59,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 62.02,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 62.02,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 66.45,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 75.31,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 79.74,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 79.74,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 84.17,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 150.0,
+            "maximum": 210.0
+          }
+        ]
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 93.03,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 97.46,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 0.0,
+            "maximum": 90.0
+          }
+        ]
+      },
+      {
+        "start_seconds": 97.46,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 90.0,
+            "maximum": 150.0
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 0.0,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 4.43,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 8.86,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 8.86,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 13.29,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 17.72,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 22.15,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 26.58,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 26.58,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 31.01,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 35.44,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 39.87,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 44.3,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 44.3,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 48.73,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 53.16,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 57.59,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 62.02,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 62.02,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 66.45,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 70.88,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 75.31,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 79.74,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 79.74,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 84.17,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 150.0,
+            "maximum": 210.0
+          }
+        ]
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 88.6,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 93.03,
+        "length_seconds": 1.0,
+        "conditions": []
+      },
+      {
+        "start_seconds": 97.46,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 90.0,
+            "maximum": 150.0
+          }
+        ]
+      },
+      {
+        "start_seconds": 97.46,
+        "length_seconds": 1.0,
+        "conditions": [
+          {
+            "parameter": "Distance",
+            "parameter_guid": "{5471720f-f2e2-465c-9c8e-48db677a2f56}",
+            "raw_kind_flags": "11000000",
+            "raw_comparison_flags": "20500000",
+            "minimum": 0.0,
+            "maximum": 90.0
+          }
+        ]
+      }
+    ]
+  ],
+  "parents": [
+    {
+      "event": "{f6f44735-286f-405e-b5ba-a1687da46a87}",
+      "annotation": "Master/ground/engines/ai/_enemies/object120/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "c37d46352efb5adf180f2d596a1a94e5ec138dac50cc4bc8ab5be70026d4828c"
+    },
+    {
+      "event": "{61bd3fe7-dbe5-4e1e-b4d4-cb6f6ea3bf74}",
+      "annotation": "Master/ground/engines/ai/_enemies/t34/engine",
+      "schedule_index": 1,
+      "timeline_sha256": "bc66d4698195e8ad3abf548513ee309661efdc11018a30ee0853c0b9ba956cb6"
+    },
+    {
+      "event": "{c650a5c2-7317-49e0-b747-38a9a2148251}",
+      "annotation": "Master/ground/engines/ai/_enemies/m60_patton/engine",
+      "schedule_index": 2,
+      "timeline_sha256": "65039d2539b36612475c91a82a540672f843afec2e95dcc0ba57540bf8b57110"
+    },
+    {
+      "event": "{e12a0092-6925-4b62-b13a-cd5d0e127b8d}",
+      "annotation": "Master/ground/engines/ai/_enemies/chaffee_m24/engine",
+      "schedule_index": 3,
+      "timeline_sha256": "898980ba16e63c4b749f218b05c85ed1f961503cb66e10661dfa7d884be55da7"
+    },
+    {
+      "event": "{0812f3fe-c329-4715-8baf-ed0ce6db5642}",
+      "annotation": "Master/ground/engines/ai/_enemies/stug40/engine",
+      "schedule_index": 4,
+      "timeline_sha256": "8f2aba23c9212935aade90b226bb03c6700e86a3359a51bf2b9aeea302b9ab40"
+    },
+    {
+      "event": "{44396a8c-806f-45de-a716-19dd41cede52}",
+      "annotation": "Master/ground/engines/ai/_enemies/ztz99/engine",
+      "schedule_index": 5,
+      "timeline_sha256": "5f89a477c7a180ee8a3f5837ef980fa522f15b9976935569fbfd8e8c9c029151"
+    },
+    {
+      "event": "{2bd0243b-7ac3-4c3c-9efa-c1093c0ce575}",
+      "annotation": "Master/ground/engines/ai/_enemies/m3_bradley/engine",
+      "schedule_index": 3,
+      "timeline_sha256": "6b45cdf831e6852dbadc9f29bcb33d3a44b2a57613268db4d6850fb6722930ad"
+    },
+    {
+      "event": "{94e6a9b4-5483-4364-af9f-ae570c708689}",
+      "annotation": "Master/ground/engines/ai/_enemies/c1_ariete/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "de42f367f2a4baafdfffb4f4b2efe3d83e7e5d1797e61e5e9e2b29c258097e3a"
+    },
+    {
+      "event": "{e72f1b5f-33b5-4bea-845f-1b40a671e1dd}",
+      "annotation": "Master/ground/engines/ai/_enemies/scania_v8/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "179d8c07ce4ea5948aa6080dfd5da3beeb4e4354ab35ef0450dffa7c3248ddd1"
+    },
+    {
+      "event": "{e98724e8-a276-4457-9a26-55cbf2d5eb56}",
+      "annotation": "Master/ground/engines/ai/_enemies/patria/engine",
+      "schedule_index": 1,
+      "timeline_sha256": "8b869c931742ba62dadeaca3890414284847859dea56fa1bfe0dc6d3ad7ab9f0"
+    },
+    {
+      "event": "{9c4cbf71-d43f-47fb-a14a-edea8ea76660}",
+      "annotation": "Master/ground/engines/ai/_enemies/m16/engine",
+      "schedule_index": 3,
+      "timeline_sha256": "bc5e013f98749a209f9f975c61a37a15027bd503d54a2cedb7b5d0f5e47dd8d6"
+    },
+    {
+      "event": "{a0bab348-7e51-4039-a0e4-5d738947ca33}",
+      "annotation": "Master/ground/engines/ai/_enemies/su76/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "1f20ad65bd0131e110cebfc21d5487517d8899a4e5346c362d543f4ce18ac0a1"
+    },
+    {
+      "event": "{c281492d-c0ee-452e-a55e-ee4f2ad00388}",
+      "annotation": "Master/ground/engines/ai/_enemies/a7v/engine",
+      "schedule_index": 3,
+      "timeline_sha256": "68281338b02433596bd63364a5e43b8a11a8a41eae2cd0b640af9bd289461aa6"
+    },
+    {
+      "event": "{e4b1917d-d838-4490-8cb1-b8f43f4b1a94}",
+      "annotation": "Master/ground/engines/ai/_enemies/panzer6/engine",
+      "schedule_index": 5,
+      "timeline_sha256": "cbec5feb2207d10aaf6dc6c92b7442b8b9dfd952ddf3e9701d61d6bea8eeb728"
+    },
+    {
+      "event": "{ed80d42c-be34-449a-8db1-8bfa30e99e3b}",
+      "annotation": "Master/ground/engines/ai/_enemies/pvrbv551/engine",
+      "schedule_index": 1,
+      "timeline_sha256": "da1c4625831b1f2101f671695089d687f98314d25037cfd8cc2ad5a2df8a5987"
+    },
+    {
+      "event": "{7553fb78-f9b5-4e63-8362-841e2b54497d}",
+      "annotation": "Master/ground/engines/ai/_enemies/tigerdiesel/engine",
+      "schedule_index": 3,
+      "timeline_sha256": "8973a9f69fd9d6cedf77275ff6e7e91800ca08ea126495e2bc26c7350f6749ca"
+    },
+    {
+      "event": "{a0005b87-16fe-45bc-9f39-94c2f43c7180}",
+      "annotation": "Master/ground/engines/ai/_enemies/strv103/engine",
+      "schedule_index": 1,
+      "timeline_sha256": "00594fbe42c9df3fed0758ae9cf79741d937e58cf5f2ac6f07c12355b2050d0f"
+    },
+    {
+      "event": "{ba941680-71ef-4f40-9b22-bebb02b5845d}",
+      "annotation": "Master/ground/engines/ai/_enemies/comet/engine",
+      "schedule_index": 2,
+      "timeline_sha256": "4186588733dfb89682289947f0f2de854dcadf0e68cf0c016244fe323c8fe44c"
+    },
+    {
+      "event": "{0e94f467-5d03-487f-b6d0-42c0ed135608}",
+      "annotation": "Master/ground/engines/ai/_enemies/char_b1/engine",
+      "schedule_index": 2,
+      "timeline_sha256": "bee1be40eeda15a95c74e456f1d80fc7b70e1c2b247a42c00c43efa3d3e73bce"
+    },
+    {
+      "event": "{36031f3e-d92d-4b5a-87fc-75f89312eabd}",
+      "annotation": "Master/ground/engines/ai/_enemies/leclerc/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "77987aee36e5f65c76cc1bd050297bd6ba3c503ecf860116a0eec99b4caf7a53"
+    },
+    {
+      "event": "{00f7bc4b-6c2c-4ff9-9a05-2dae70437bfe}",
+      "annotation": "Master/ground/engines/ai/_enemies/panther/engine",
+      "schedule_index": 5,
+      "timeline_sha256": "a12dc89e726d72abb5df6089dedd85ba665b4395387cb4e15c731249d8025e1f"
+    },
+    {
+      "event": "{fa761fa6-c08d-4ea1-ac38-2318d0a8ac74}",
+      "annotation": "Master/ground/engines/ai/_enemies/fiat_8144/engine",
+      "schedule_index": 3,
+      "timeline_sha256": "9b67a1be737a3d2a5315ce1ca43aaf876af481d2cce07e1306833f547c599519"
+    },
+    {
+      "event": "{a261f09d-ee1b-4af7-8634-f812da3c0e0b}",
+      "annotation": "Master/ground/engines/ai/_enemies/saint_chamond/engine",
+      "schedule_index": 3,
+      "timeline_sha256": "1ade96521da5486f948c417dc365f0a3d2813f4e366d9da5dbd810495c9525fc"
+    },
+    {
+      "event": "{c8da58e6-f36f-44ad-a3f1-59b67ea57bb9}",
+      "annotation": "Master/ground/engines/ai/_enemies/amx30/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "032262d9202673736eb1b471afaa62c992e1316dfe8eef2c8a5f6a23338143ed"
+    },
+    {
+      "event": "{592372cc-d8fd-44b6-bac4-0ea23f278a41}",
+      "annotation": "Master/ground/engines/ai/_enemies/fv721/engine",
+      "schedule_index": 2,
+      "timeline_sha256": "93177bcf818b5dd7f53b13f2c637dc503933a75c911b119b47fe4803717aa06f"
+    },
+    {
+      "event": "{834b1cb5-a0db-4b69-ad99-5ac96287ad9c}",
+      "annotation": "Master/ground/engines/ai/_enemies/type10/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "e423558efc7a036f1921aa218a7c0dcb46effc2c35de840f141b6dd2d18c2464"
+    },
+    {
+      "event": "{6cb46a57-410f-46e5-bb28-51adb3383962}",
+      "annotation": "Master/ground/engines/ai/_enemies/kv220/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "29e49d5e877eb6f5dc9122bcd85310223db0845e5a782f19ec0ce9d897775603"
+    },
+    {
+      "event": "{989a22ed-aa47-4851-9d98-dd9c337f43fd}",
+      "annotation": "Master/ground/engines/ai/_enemies/brdm/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "1445163cd46f2e4dd20e6f6682b8adac6334c058a85a0fb1eb424599b9efb20e"
+    },
+    {
+      "event": "{8f8cee4b-d279-4636-8094-ee7be423fd2c}",
+      "annotation": "Master/ground/engines/ai/_enemies/strf90/engine",
+      "schedule_index": 2,
+      "timeline_sha256": "0061d15d8b2c171a80f5972bdf2b430e0ed99cb51c0c1ac6f6818798e6f9dfcf"
+    },
+    {
+      "event": "{d65b3a1d-a6a3-4199-b982-038f5355c883}",
+      "annotation": "Master/ground/engines/ai/_enemies/stuart_m5a/engine",
+      "schedule_index": 3,
+      "timeline_sha256": "a2355ed3f3bb1902373aef05008829e980684d3e8b6dd439727c9e5a4f0aa76a"
+    },
+    {
+      "event": "{4234c030-a5b9-4685-9641-be5208d9ede8}",
+      "annotation": "Master/ground/engines/ai/_enemies/maus/engine",
+      "schedule_index": 3,
+      "timeline_sha256": "1df686c3e25f57e3219956af92edb411b66dcdc520af2104ebcbcff9a7fcb8c0"
+    },
+    {
+      "event": "{392e1bc9-2f88-42fb-9ca2-c1f67b3c74fe}",
+      "annotation": "Master/ground/engines/ai/_enemies/bmd4/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "da9c045476884b4ff36517eb98f5967976052ab9d26125cdb90b89099d11990d"
+    },
+    {
+      "event": "{968af469-fd75-47d4-96f2-80590e52c194}",
+      "annotation": "Master/ground/engines/ai/_enemies/btr80/engine",
+      "schedule_index": 3,
+      "timeline_sha256": "d60c4d11aace361cc8d7a11aaf3ae78e321bb28d13ed27a1cc141667e4aa05b3"
+    },
+    {
+      "event": "{a63ca466-e356-4759-8bde-58f567fdefb4}",
+      "annotation": "Master/ground/engines/ai/_enemies/sherman_m4a1/engine",
+      "schedule_index": 4,
+      "timeline_sha256": "8eaa55cee88ad5bb384c4ebf67b47863a46e00af739ebe3a546465cd2f1f9112"
+    },
+    {
+      "event": "{0c851395-1241-4b30-911d-08c78488fbd4}",
+      "annotation": "Master/ground/engines/ai/_enemies/type93/engine",
+      "schedule_index": 2,
+      "timeline_sha256": "464392014b7cad24c3dcc73e7fc8f7aaa3772e1376a82e092d043c13a92c10bb"
+    },
+    {
+      "event": "{5338c598-0a2f-4e72-ad35-5b897555f52d}",
+      "annotation": "Master/ground/engines/ai/_enemies/hstvl/engine",
+      "schedule_index": 4,
+      "timeline_sha256": "d5be73f8924933ab9d47f2871c59b6fa6945c9ef4c67d6405c222577743e4533"
+    },
+    {
+      "event": "{2827bc6e-0674-49d7-b901-538687be2caa}",
+      "annotation": "Master/ground/engines/ai/_enemies/bmp/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "3d634c647c30953ff765aa36bef8db096a6b2287f32ebb5bbecc97529681afd8"
+    },
+    {
+      "event": "{d582e498-1183-4106-ac47-120e6c955c5b}",
+      "annotation": "Master/ground/engines/ai/_enemies/pvpjbv2062/engine",
+      "schedule_index": 3,
+      "timeline_sha256": "95554927a025b7bbce97bfb12b855534e8792e5037de62fd8791627899769537"
+    },
+    {
+      "event": "{4c88c823-cbb9-46b8-ba6d-dae41e35cecd}",
+      "annotation": "Master/ground/engines/ai/_enemies/type90/engine",
+      "schedule_index": 1,
+      "timeline_sha256": "329e901040bdbda74c3ff2813a9c6c57f22990e705e0c6a6dd0c44aa7fad4dcc"
+    },
+    {
+      "event": "{9510d751-c19e-43eb-984f-0a051c29700b}",
+      "annotation": "Master/ground/engines/ai/_enemies/goliath/engine",
+      "schedule_index": 2,
+      "timeline_sha256": "9448e883000a7b338e2716a1c567b6dbd99347b8581c0eeb97564ca0f74c7d4e"
+    },
+    {
+      "event": "{555b79e1-dfe7-4a70-b109-5f5e6dd5b538}",
+      "annotation": "Master/ground/engines/ai/_enemies/panzer3/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "666cfa0403301141d4aff504fcaccb389c0d758e02c7f753e8f4d3b6a87eeae9"
+    },
+    {
+      "event": "{91e73b3c-12c1-4299-8cf1-75791d10c57d}",
+      "annotation": "Master/ground/engines/ai/_enemies/type74/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "c9bd86343d65c49f05c70b6826be11358b1fac36b7ba121821cff965c83f81e0"
+    },
+    {
+      "event": "{5acafdd9-96a0-4804-b2b8-c5fa064dca56}",
+      "annotation": "Master/ground/engines/ai/_enemies/m10/engine",
+      "schedule_index": 5,
+      "timeline_sha256": "fd9d344b01e3e0e2c2828d56b44a793f40239e3a43f806b0e7645011c5f84033"
+    },
+    {
+      "event": "{a565cae6-7d4f-4e4a-9094-374345c456d1}",
+      "annotation": "Master/ground/engines/ai/_enemies/m1/engine",
+      "schedule_index": 2,
+      "timeline_sha256": "398da75789d545c10527e19fb1764cbbb80ecedb007b0b876af4d9a54a7177ba"
+    },
+    {
+      "event": "{5073f7e1-f0a7-4a3c-a4b8-bec15bb6814c}",
+      "annotation": "Master/ground/engines/ai/_enemies/cromwell/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "5a82aa6618917da9674a27cfd4026c634224f37158386dabad3c3d647d01db72"
+    },
+    {
+      "event": "{b799023c-2654-425f-81a0-ad9ed05d933a}",
+      "annotation": "Master/ground/engines/ai/_enemies/t90a/engine",
+      "schedule_index": 2,
+      "timeline_sha256": "4f3171611028008311c195d5047dd0dab386e10d80c6980ff74c157f5ce51c71"
+    },
+    {
+      "event": "{12ddf047-3802-4e8b-97f7-c29c29509dc3}",
+      "annotation": "Master/ground/engines/ai/_enemies/su100/engine",
+      "schedule_index": 1,
+      "timeline_sha256": "bd6c78185be60b871d23d0738fe41c6b121c4adb0c06635e907c768adc4876ea"
+    },
+    {
+      "event": "{fa019ff2-76fe-42ad-b1e1-96135145eb4a}",
+      "annotation": "Master/ground/engines/ai/_enemies/hellcat_m18/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "9d202e0231f5a44102093e0afef04d8c53e662c55293e59b4ea8df60eaf6d36f"
+    },
+    {
+      "event": "{2a687fea-a498-4ee3-a766-7acf5cbddafc}",
+      "annotation": "Master/ground/engines/ai/_enemies/m8/engine",
+      "schedule_index": 2,
+      "timeline_sha256": "13ff8fb80f1d7afb32b951283fc5b9acee6aebd569eeba2dbb3f2fe1a315a8a3"
+    },
+    {
+      "event": "{fdf41436-a0fc-435f-b500-18ad8ffb74e0}",
+      "annotation": "Master/ground/engines/ai/_enemies/chieftain/engine",
+      "schedule_index": 5,
+      "timeline_sha256": "c091b0901337fc17849bc076c6defad4a7b3b019ccf705f73cddf5e7738f387f"
+    },
+    {
+      "event": "{004e0e80-fbf7-4b26-8cee-9d53f2d53816}",
+      "annotation": "Master/ground/engines/ai/_enemies/mcta_v6/engine",
+      "schedule_index": 3,
+      "timeline_sha256": "f832059eb453f6a62819a8e38ea6cdb81a5702986122ef8b3b3f56c66aa85bbb"
+    },
+    {
+      "event": "{9f3f2932-6313-49ee-9383-1a503f31d81a}",
+      "annotation": "Master/ground/engines/ai/_enemies/t64a/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "60cf12fb212a6ef5e008249bdde69ca5d6fa01835d2489fcaf5aa258fa94f151"
+    },
+    {
+      "event": "{1bcdfd77-b5c9-4b97-94f3-d88a8267e27d}",
+      "annotation": "Master/ground/engines/ai/_enemies/leo1/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "e33ccc87296fccc6f39a2a56a126113120789f7d658f93f04bca588659b45687"
+    },
+    {
+      "event": "{7aa85867-11de-4a22-90cb-9151536d3f51}",
+      "annotation": "Master/ground/engines/ai/_enemies/tiger2/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "c4e97966b91b0fefd3d33b590a27dc0c36faace37e0963f82ba0faf9ca67f853"
+    },
+    {
+      "event": "{a4f96fec-4268-4ad5-afa8-3573d918479a}",
+      "annotation": "Master/ground/engines/ai/_enemies/abrams/engine",
+      "schedule_index": 2,
+      "timeline_sha256": "f0af0a6e8a0e11bc71fb283d934cf5079c5cdbb8293e6a2717fa63a79128de75"
+    },
+    {
+      "event": "{2bccc4f4-a58e-4735-a894-5ff2af434188}",
+      "annotation": "Master/ground/engines/ai/_enemies/panzer4/engine",
+      "schedule_index": 2,
+      "timeline_sha256": "2f70b079ba430e243c652e2250ea5c61f7b996973fb1ac70a40481ed9b077eb1"
+    },
+    {
+      "event": "{604ff490-949a-406a-b9c0-a838bf95fe31}",
+      "annotation": "Master/ground/engines/ai/_enemies/mark_v/engine",
+      "schedule_index": 1,
+      "timeline_sha256": "3478a5f9b351d17aea0ba979bc0ce35ebd5b18c2b062450ebdcdef3f3420fd0c"
+    },
+    {
+      "event": "{25f4bbd6-4310-4426-af52-362aaa8a1073}",
+      "annotation": "Master/ground/engines/ai/_enemies/m109/engine",
+      "schedule_index": 4,
+      "timeline_sha256": "6d1d31994ae38aed3f4916492385bd390da6dce95d862288371c07997010ee00"
+    },
+    {
+      "event": "{0b82d7b3-70bd-4776-ad5e-cc50402abba1}",
+      "annotation": "Master/ground/engines/ai/_enemies/ikv103/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "3dfa178c6805443a2b9afe253949d9ad05ffe6a1c9a7c2fc5635bbc823277a06"
+    },
+    {
+      "event": "{13b5ad33-be7e-49dc-a70b-c4f0bf500940}",
+      "annotation": "Master/ground/engines/ai/_enemies/ystervark/engine",
+      "schedule_index": 4,
+      "timeline_sha256": "9883f3f493edebed8ecdc803f1fbdd49d6c2b47578501b8218111ce629810450"
+    },
+    {
+      "event": "{cd9f666e-02c4-4d42-b64a-799e1eae96d4}",
+      "annotation": "Master/ground/engines/ai/_enemies/leo2a5/engine",
+      "schedule_index": 3,
+      "timeline_sha256": "d9d9a802219b8bdfa4958e639b941409a92c7aabe91bbdaf0ca57dc8a0803d48"
+    },
+    {
+      "event": "{ade08e2a-059a-4664-afbf-330b6e9687d1}",
+      "annotation": "Master/ground/engines/ai/_enemies/t80/engine",
+      "schedule_index": 1,
+      "timeline_sha256": "7ed4f12f5cf75814e1475462229149b26e21238110626553c6051e2a4cca81b2"
+    },
+    {
+      "event": "{deae5de6-2f82-40f7-987e-f2761807db58}",
+      "annotation": "Master/ground/engines/ai/_enemies/kamaz/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "c7d0927513e4bb88c3f3eed549891d4eff11367c3eb42644d54514cb7e6827d8"
+    },
+    {
+      "event": "{d5178833-53a5-4bf3-adf8-39b66a94a0ad}",
+      "annotation": "Master/ground/engines/ai/_enemies/challenger/engine",
+      "schedule_index": 2,
+      "timeline_sha256": "bb25a366832a8edd603c80c4cdf3de482d1a07fe84f299a9dcedad937eded5a3"
+    },
+    {
+      "event": "{b2a25cc4-8139-462c-9d60-542269e68d26}",
+      "annotation": "Master/ground/engines/ai/_enemies/t72/engine",
+      "schedule_index": 5,
+      "timeline_sha256": "a268015dc768fabacfc8bd83c1f60794e2f03232514f9b2a8141a474bf113721"
+    },
+    {
+      "event": "{31cd7398-9db3-416c-8973-a9cb39efcad0}",
+      "annotation": "Master/ground/engines/ai/_enemies/tank01/engine",
+      "schedule_index": 0,
+      "timeline_sha256": "14fdd2ac6ab8a6a3821a6d04ea939a7a74931d93a15adc3699c56fa7367a6f76"
+    },
+    {
+      "event": "{6eb8189f-af7a-4080-b88e-d83f158524ef}",
+      "annotation": "Master/ground/engines/ai/_enemies/hetzer/engine",
+      "schedule_index": 3,
+      "timeline_sha256": "a469e7a8a8a4a1aad4482c1e071786f576814fbb3819033b261735a22281750f"
+    },
+    {
+      "event": "{7d5885f7-2352-458f-9174-99fae8bb7c6b}",
+      "annotation": "Master/ground/engines/ai/_enemies/ikv91/engine",
+      "schedule_index": 3,
+      "timeline_sha256": "7ca499c620da01c3c9eb9d4979562fc0c40d2761c74a420d659a1f953a04b04b"
+    },
+    {
+      "event": "{e0efb957-f95f-40a0-9abb-cfb6c9c9d0e7}",
+      "annotation": "Master/ground/engines/ai/_enemies/sherman_m4a3/engine",
+      "schedule_index": 4,
+      "timeline_sha256": "57b96f7124199544c63bf3326aa6d6441521e3e1372ee69df4320034dc8d40a1"
+    },
+    {
+      "event": "{d1b7d6c0-bee9-4760-9f61-f250f6f8b513}",
+      "annotation": "Master/ground/engines/ai/_enemies/valentine/engine",
+      "schedule_index": 3,
+      "timeline_sha256": "5db90b33360ac5759a03158410f1c3cbbdb1c4513012c7945bf540b9f519e177"
+    },
+    {
+      "event": "{1ceb0882-0a9f-41ed-8cfd-cc231e869a02}",
+      "annotation": "Master/ground/engines/ai/_enemies/pt76/engine",
+      "schedule_index": 3,
+      "timeline_sha256": "bea814f648f0048c1151a49f50a528c0b36dd85037cfade2108aa1d8c5f2a1f9"
+    },
+    {
+      "event": "{514c0ec6-3d5c-45da-a410-5c3cba42e653}",
+      "annotation": "Master/ground/engines/ai/_enemies/centurion/engine",
+      "schedule_index": 2,
+      "timeline_sha256": "1038445f45554e81556f0ffd40267e84296121bb3522ce56192c08b2cb2f0b36"
+    }
+  ],
+  "qualification": "Numeric baseline timeline facts only. Serialized slots include zero-time entries; runtime callbacks and conditions determine audible triggers. Do not replace the original byte-preserved parent graph with a naive timer."
+}

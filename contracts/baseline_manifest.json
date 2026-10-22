@@ -1,0 +1,52 @@
+[
+  {
+    "name": "aircraft_common.bank",
+    "bytes": 6511904,
+    "sha256": "7b000df880707178d46663d746cdbefb66d49101a8ce3375b08773c9c35b7131"
+  },
+  {
+    "name": "aircraft_effects.bank",
+    "bytes": 29791616,
+    "sha256": "db1746a2b08da7b5f95cac33f63a4f2a19742976fc625f78cd0a1b9ec42409ee"
+  },
+  {
+    "name": "aircraft_engines.bank",
+    "bytes": 145150912,
+    "sha256": "975fd9ea5af9aa91f55130156879afc9ac3be77ab47adc211fb5bcc83639afe6"
+  },
+  {
+    "name": "aircraft_gui.bank",
+    "bytes": 6963872,
+    "sha256": "697df989b17d553eaa7a835df1ac50df530d8d1100d713aa95dfa7f35d5d9c2a"
+  },
+  {
+    "name": "aircraft_guns.bank",
+    "bytes": 39796768,
+    "sha256": "d3fc2655aa6299fa7f97ffad7a37ac1ddcbbe0e3d740382c90bd9eef55c487c3"
+  },
+  {
+    "name": "masterbank.assets.bank",
+    "bytes": 24384,
+    "sha256": "94d4bd39a23ccf83108a3d66bc0e89b23e88b59b1fc31bdd7239d9f33b124ced"
+  },
+  {
+    "name": "masterbank.bank",
+    "bytes": 1648348,
+    "sha256": "fa6d574f7de9066e874ca890554d5f45f21aa6ffab28f4534f1bb6cf02df1a33"
+  },
+  {
+    "name": "masterbank.strings.bank",
+    "bytes": 535986,
+    "sha256": "1a0409d591599196307395afa607cb55683addb4138ae35ec9cb6a3073c7f2d5"
+  },
+  {
+    "name": "tanks_engines.assets.bank",
+    "bytes": 179666720,
+    "sha256": "ea35751a45f79db129500784d108275339b37eaf4b56ad39db764ea3b38fac67"
+  },
+  {
+    "name": "tanks_engines.bank",
+    "bytes": 7862774,
+    "sha256": "10197b3be1be0747de259b543a961cb625f28bdae96e2463381216f94352e011"
+  }
+]

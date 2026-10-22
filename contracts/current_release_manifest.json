@@ -1,0 +1,32 @@
+{
+  "files": [
+    {
+      "path": "sound/mod/masterbank.assets.bank",
+      "bytes": 24384,
+      "sha256": "94d4bd39a23ccf83108a3d66bc0e89b23e88b59b1fc31bdd7239d9f33b124ced"
+    },
+    {
+      "path": "sound/mod/masterbank.bank",
+      "bytes": 1648348,
+      "sha256": "caf298793811921d9881deb07c686ddb28c7c7f1f45d1722209e867e84148d6f"
+    },
+    {
+      "path": "sound/mod/masterbank.strings.bank",
+      "bytes": 535986,
+      "sha256": "1a0409d591599196307395afa607cb55683addb4138ae35ec9cb6a3073c7f2d5"
+    },
+    {
+      "path": "sound/mod/tanks_engines.assets.bank",
+      "bytes": 179683008,
+      "sha256": "cf84aa3f180887bd7664bc45639a8c52ea238355d9e403827456223074750ecb"
+    },
+    {
+      "path": "sound/mod/tanks_engines.bank",
+      "bytes": 7863596,
+      "sha256": "d9ea1f9b0027f685f267b1b29d33049be2d32121219117406a178dbe13f03b27"
+    }
+  ],
+  "verification": "PASS_STATIC_AND_DECODED_AUDIO",
+  "runtime_verified": true,
+  "in_game_verified": false
+}
