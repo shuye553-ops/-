@@ -7,8 +7,8 @@
     },
     {
       "path": "AGENT_REPRODUCTION_FULL.txt",
-      "bytes": 226788,
-      "sha256": "ebd3b145ddb198f6f0338001fa46b534dba04f9a466f95b0227af6bcc380059e"
+      "bytes": 227054,
+      "sha256": "854b8d0b724abb92bde2978c56173badaa8996ab9e43b1cdc0b40babbead3259"
     },
     {
       "path": "AGENTS.md",
@@ -107,8 +107,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3581,
-      "sha256": "4a0b53b474c04ebcb315678225af7572d36e2b9ac00344c613ab7b387ee4a200"
+      "bytes": 3847,
+      "sha256": "f7f2fdd19225cfbcd7f35a287d48f8f7df050d82fb69244381f65ae42721620c"
     },
     {
       "path": "requirements.txt",

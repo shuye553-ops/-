@@ -4,6 +4,10 @@
 
 **先读 [AGENTS.md](AGENTS.md) 和 [复刻说明](docs/REPRODUCE.md)。本仓库不包含原成品bank、录音、FMOD软件、DLL或完整第三方工程。Git clone之后仍需自备对应输入。** 本机完整制作资料已迁到 `F:\战争雷霆语音包制作文件`；GitHub是可审查的文本发布快照。
 
+<img width="2560" height="1480" alt="volume-distance-comparison" src="https://github.com/user-attachments/assets/a109d797-1547-4385-80b2-205bf184a9fc" />
+
+图1-1 战争雷霆官方引擎音量衰减曲线与 EchoContact v1.2.1 的对比（原仓库配图）。
+
 ## 给Agent的任务起点
 
 ```text
